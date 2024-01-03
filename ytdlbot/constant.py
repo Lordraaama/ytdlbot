@@ -83,7 +83,7 @@ Your current settings:
 Video quality: **{0}**
 Sending format: **{1}**
 """
-    custom_text = os.getenv("CUSTOM_TEXT", "")
+    custom_text = os.getenv("CUSTOM_TEXT", "Download by 𝓣𝓮𝓪𝓶 𝓙𝓪𝓲 𝓢𝓱𝓻𝓲 𝓡𝓪𝓶 𝓞𝓯𝓯𝓲𝓬𝓲𝓪𝓵")
 
     premium_warning = """
     Your file is too big, do you want me to try to send it as premium user? 
